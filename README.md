@@ -50,6 +50,8 @@ Top Product: Dell XPS 13
 
 Top Sales Rep: Tara
 
+
+
 Peak Sales Month: December
 ![image](https://github.com/VedPratapChauhan/Sales-Analysis-Dashboard-/blob/0abd81103d8235465d0c04e2b02058b2a9f4b8ab/2025-08-28%20(1).png)
 
