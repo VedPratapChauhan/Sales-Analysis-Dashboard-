@@ -1,5 +1,6 @@
 # Sales-Analysis-Dashboard (Excel Project)
 A sales dashboard on electronics sales in particular regions with category performance. Show casing highest and lowest sales in particular regions with months .. Also showcasing the representatives with high and low performance. All charts linked with monthly slicer to see monthly bases developtment for all the cahrts for required solution goals and improvement areas.
+
 Sales Dashboard 📊
 🚀 Project Overview
 
